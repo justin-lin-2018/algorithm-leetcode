@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37a81bb9-eff4-49e8-a425-4365383d1ba4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../algorithm-leetcode/oneToTen/src/oneToTen" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm-leetcode/oneToTen/src/oneToTen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm-leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm-leetcode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="Two.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../algorithm-leetcode/oneToTen/src/oneToTen/Two.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="425">
+              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -283,7 +283,7 @@
       <workItem from="1537067805412" duration="2164000" />
       <workItem from="1538488979538" duration="1966000" />
       <workItem from="1538534800504" duration="10152000" />
-      <workItem from="1538615635235" duration="3661000" />
+      <workItem from="1538615635235" duration="4521000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1538617012388</created>
@@ -306,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538619197499</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1538619463938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538619463938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -342,10 +349,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17943000" />
+    <option name="totallyTimeSpent" value="18803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -506,8 +514,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../algorithm-leetcode/oneToTen/src/oneToTen/Two.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        <state relative-caret-position="425">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
